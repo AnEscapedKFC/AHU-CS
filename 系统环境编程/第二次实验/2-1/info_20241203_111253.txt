@@ -1,0 +1,1 @@
+{"Contact":"18355","From":"安徽省马鞍山市","Gender":"男","Grade":"2022级","IPAddr":"127.0.0.1","MAC":"FF-FF-FF-FF-FF-FF","SubNetMask":"255.255.255.0","Subject":"信息安全","age":"19","name":"占卜师","number":"","zzmm":"群众"}

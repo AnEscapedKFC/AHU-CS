@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/Pic">
+        <file>D:/Pictures/OIP-C.jpg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>style.qss</file>
+    </qresource>
+</RCC>

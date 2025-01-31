@@ -1,0 +1,32 @@
+QPushButton#pushButton,
+QPushButton#pushButton_2,
+QPushButton#pushButton_3,
+QPushButton#pushButton_4,
+QPushButton#pushButton_5,
+QPushButton#pushButton_6,
+QPushButton#pushButton_7,
+QPushButton#pushButton_8,
+QPushButton#pushButton_9,
+QPushButton#pushButton_10,
+QPushButton#pushButton_0,
+QPushButton#pushButton_12{
+    min-height: 60px;
+    min-width: 80px;
+}
+
+QPushButton#pushButton_11,
+QPushButton#pushButton_13,
+QPushButton#pushButton_14,
+QPushButton#pushButton_15,
+QPushButton#pushButton_16,
+QPushButton#pushButton_17
+{
+    min-height: 60px;
+    min-width: 60px;
+    max-height: 60px;
+}
+
+QWidget #widget,
+QWidget #widget_2{
+    border: 1px solid lightgray;
+}

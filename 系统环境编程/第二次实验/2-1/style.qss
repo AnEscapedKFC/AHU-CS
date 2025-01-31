@@ -1,0 +1,45 @@
+QPushButton {
+    min-height: 30px;
+    min-width: 80px;
+}
+
+
+QLineEdit {
+    min-width: 300px;
+    min-height: 20px;
+    max-width: 300px;
+    text-align: left;
+}
+
+
+
+QWidget #widget,QWidget #widget_5,QWidget #widget_7,QWidget #widget_9,QWidget #widget_12{
+    border: 1px solid lightgray;
+}
+
+QWidget#widget_11 {
+    background-image: url(":/D:/Pictures/605ed4021aafbe1cdb863e9866214eacc6ae46c0.jpg");
+    background-position: center;        /* 图片居中 */
+    background-repeat: no-repeat;       /* 防止图片重复 */
+
+}
+
+
+
+QLabel {
+    font-size: 18px; /* 标签文字大小 */
+    background: transparent; /* 标签背景透明 */
+    font-weight: bold; /* 文字加粗 */
+}
+
+
+QLineEdit #lineEdit_3{
+    border: 2px solid #8f8f91;
+    border-radius: 5px;
+    padding: 0 8px;
+    background: #f0f0f0;
+    selection-background-color: darkgray;
+    font-size: 14px;
+    height: 30px;
+}
+
